@@ -8,6 +8,6 @@ Java程序设计小项目实战学习中发现，导入他人设计好的系统�
 详细讲解下解决步骤：
 ## 1、导入项目到eclipse
 
-![打开eclipse](images/jdbc_1.jpg)
+![打开eclipse](https://github.com/JonathanKin/Study-Notes/blob/master/image/jdbc_1.jpg)
 
 选择一个workspace（导入项目.settings文件夹的上一层）
